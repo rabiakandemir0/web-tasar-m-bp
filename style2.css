@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    background-color: 
+#fff;
+  }
+  table tr, table td, table th {
+    border: 1px solid 
+#bbb;
+    padding: 10px 20px;
+  }
+  table th {
+    background-color: 
+#dd4a7b;
+    color: 
+#fff;
+    font-weight: 600;
+  }        
+
